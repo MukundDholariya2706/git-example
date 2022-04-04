@@ -1,2 +1,0 @@
-This is login feature file.
-this file for login and login feature use. (Ex. cherry-pick example)
